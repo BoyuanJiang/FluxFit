@@ -40,6 +40,8 @@ Chinese users can refer to [this link](https://hf-mirror.com/) to speed up model
 
 Run demo with following command, requiring a gpu that supports bf16.
 ```
+pip install diffusers==0.30.3
+
 python gradio_flux.py # need about 66G GPU memory
 
 python gradio_flux.py --offload # need about 32G GPU memory, the speed is slower
