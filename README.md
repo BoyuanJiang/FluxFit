@@ -11,7 +11,7 @@
   </a>
 </div>
 <br>
-· The first work to expand the powerful Flux model to virtual fitting task. It can only be used for Non-commercial Use. <br>
+· The first work to extend the powerful Flux model to virtual fitting task. It can only be used for Non-commercial Use. <br>
 · The effect is not ideal for some complex textured clothing and model with complex limbs, we are still trying to optimize it. <br>
 
 # Updates
