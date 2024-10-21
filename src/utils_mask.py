@@ -160,7 +160,6 @@ def get_img_agnostic_lower_rectangle(im_parse, pose_data):
                     # (parse_array == 7).astype(np.float32) +
                     (parse_array == 8).astype(np.float32))
     parse_lower = np.uint8(parse_lower*255)
-    parse_lower = remove_small(parse_lower, min_area=1000*(parse_lower.shape[0]*parse_lower.shape[1]/1024/768))
     parse_head = ((parse_array == 3).astype(np.float32) +
                     (parse_array == 1).astype(np.float32) + (parse_array == 11).astype(np.float32))
     parse_shoes = ((parse_array == 9).astype(np.float32) + (parse_array == 10).astype(np.float32))
