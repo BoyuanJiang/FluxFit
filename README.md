@@ -1,3 +1,9 @@
+<h1 style="text-align: center; color: #ff0000; font-family: Arial, sans-serif;">
+    This repository will no longer be maintained. 
+    For subsequent updates, please refer to 
+    <a href="https://github.com/BoyuanJiang/FitDiT" style="color: #007bff; text-decoration: none;">FitDiT</a>.
+</h1>
+
 <h1 style="text-align: center;"> FluxFit: Virtual Fitting based on Flux </h1>
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/BoyuanJiang/FluxFit" style="margin: 0 2px;">
